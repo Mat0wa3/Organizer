@@ -1,10 +1,10 @@
 # Organizer
 Programa para ordenar en carpetas tus descargas por extensión de archivo con el fin de mantener un orden y facil acceso a tus descargas por categorias:
 
--Imagenes
--Documentos
--Videos
--Otros
+- Imagenes
+- Documentos
+- Videos
+- Otros
 
 Disponible para windows (Proximamente MacOs y Linux)
 
