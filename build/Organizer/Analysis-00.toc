@@ -1,5 +1,5 @@
-(['C:\\Users\\Admin\\Documents\\dev\\Files-Extension-manager\\Organizer.py'],
- ['C:\\Users\\Admin\\Documents\\dev\\Files-Extension-manager'],
+(['C:\\Users\\Admin\\Documents\\dev\\FIles-Extension-Manager\\Organizer.py'],
+ ['C:\\Users\\Admin\\Documents\\dev\\FIles-Extension-Manager'],
  [],
  ['C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
   'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
@@ -360,5 +360,5 @@
  [],
  [],
  [('base_library.zip',
-   'C:\\Users\\Admin\\Documents\\dev\\Files-Extension-manager\\build\\Organizer\\base_library.zip',
+   'C:\\Users\\Admin\\Documents\\dev\\FIles-Extension-Manager\\build\\Organizer\\base_library.zip',
    'DATA')])
